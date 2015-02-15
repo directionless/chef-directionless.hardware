@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: directionless.hardware
-# Recipe:: macbook3,1
+# Recipe:: macbook3-1
 #
 # Copyright 2015, seph@directionless
 #
